@@ -208,3 +208,11 @@ org.bukkit.plugin.InvalidPluginException: Unsupported API version 1.21.11
 [04:23:59] [Craft Scheduler Thread - 1 - Essentials/WARN]: [Essentials] Download it here: https://essentialsx.net/downloads.html?branch=stable
 [04:23:59] [Server thread/INFO]: [TuffXPlus] [Y0] Loaded 29671 legacy mappings.
 [04:23:59] [Server thread/INFO]: Done (47.247s)! For help, type "help"
+[04:28:49] [User Authenticator #0/INFO]: UUID of player Happy_Chappy is 61cba6cd-2bb2-3b4f-aff4-7d63c1ac9ba5
+[04:28:50] [Server thread/INFO]: [HorriblePlayerLoginEventHack] You have plugins listening to the PlayerLoginEvent, this will cause re-configuration APIs to be unavailable: [LuckPerms, Essentials]
+[04:28:57] [Server thread/INFO]: Happy_Chappy joined the game
+[04:28:57] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] (1.17->1.16.4) Increased world height is NOT SUPPORTED for 1.16 players and below. They will see a void below y 0 and above 256. You can enable the `bedrock-at-y-0` config option to replace the air with a bedrock layer.
+[04:28:57] [Server thread/INFO]: Happy_Chappy[/[0:0:0:0:0:0:0:1]:51540] logged in with entity id 1 at ([world]-588.4135986149181, 64.0, -253.00642235100986)
+[04:29:22] [Server thread/INFO]: Happy_Chappy was kicked due to keepalive timeout!
+[04:29:22] [Server thread/INFO]: Happy_Chappy lost connection: Timed out
+[04:29:23] [Server thread/INFO]: Happy_Chappy left the game
