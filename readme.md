@@ -6,7 +6,7 @@ Eaglercraft 1.21.10 server!
 **Step 2:** Open two new terminals type `java -Xms2G -Xmx2G -jar server.jar nogui` in the first and in the second type `java -Xms2G -Xmx2G -jar bungee.jar nogui` 
 <br>
 <br>
-**Step 3:** Forward Ports 8081 and 25565 and make port 8081 Public and the link next to it is your server ip 
+**Step 3:** make port 8081 Public and the link next to it is your server ip 
 <br>
 <br>
 **Step 4:** replace "https://" with "wss://" 
