@@ -15,4 +15,4 @@ Eaglercraft 1.21.10 server!
 **Step 5 (Optional):** to add plugins go to server>plugins and upload them there and then restart your server with `stop` then `java -Xms2G -Xmx2G -jar server.jar nogui`  
 <br>
 <br>
-
+This server is free, not 24/7 and locally hosted. it will be laggy. install plugins to fix that, I have all the plugins you need for smithing, and viewing stuff
