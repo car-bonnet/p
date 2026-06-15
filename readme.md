@@ -1,4 +1,4 @@
-Eaglercraft 1.21.4 Server by Ryan Norshare !
+Eaglercraft 1.21.10 server!
 <br>
 **Step 1:** Install Java 25: Type `sdk install java 25-tem` then type, when it says done installing, type `sdk default java 25-tem` then type `java -version` to check if it worked, if it says openjdk version "25" your good
 <br>
