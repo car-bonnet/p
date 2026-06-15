@@ -3,7 +3,7 @@ Eaglercraft 1.21.10 server!
 **Step 1:** Install Java 25: Type `sdk install java 25-tem` then type, when it says done installing, type `sdk default java 25-tem` then type `java -version` to check if it worked, if it says openjdk version "25" your good
 <br>
 <br>
-**Step 2:** Open two new terminals type `java -Xms2G -Xmx2G -jar server.jar nogui` in the first and in the second type `java -Xms2G -Xmx2G -jar bungee.jar nogui` 
+**Step 2:** Open two new terminals type `cd server` then type `java -Xms2G -Xmx2G -jar server.jar nogui` in the first and in the second type `cd bungee` then type `java -Xms2G -Xmx2G -jar bungee.jar nogui` if you dont do these in 2 steps, it will not work, and it will say too many commands.
 <br>
 <br>
 **Step 3:** make port 8081 Public and the link next to it is your server ip 
